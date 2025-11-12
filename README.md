@@ -1,4 +1,5 @@
 Excel-based HR Attrition Dashboard Project supervised by the Director, Skills Ahead Academy, Lagos, Nigeria.
+
 This project was carried out under the supervision of the Director of Skills Ahead Academy, Lagos, Nigeria, as a practical application of data analysis in human resource management. 
 The primary goal was to use Microsoft Excel to analyse workforce data and identify factors influencing employee attrition, enabling management to make informed, data-driven decisions to improve retention.
 Project Overview
